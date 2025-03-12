@@ -1,0 +1,11 @@
+[package]
+name = "system_stats_monitor"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
+nvml-wrapper = "0.10.0"
+sysinfo = "0.33.1"
+global-hotkey = "0.6.3"
+egui = "0.30.0"
+eframe = "0.30.0"
