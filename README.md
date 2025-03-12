@@ -1,5 +1,7 @@
 # System Stats Monitor
 
+![System Monitor Preview](https://github.com/user-attachments/assets/c6824f34-e19d-4f03-9169-9ac8bf0fd053)
+
 System Stats Monitor is a work-in-progress Rust application that provides real-time monitoring of system statistics, focusing on GPU and CPU usage. It features a graphical interface built with `egui` and `eframe`, and utilizes various system libraries for gathering hardware information.
 
 ## Features
